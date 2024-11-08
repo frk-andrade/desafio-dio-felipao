@@ -20,4 +20,4 @@ if (nivelExperiecia <= 1000) {
     nivelHeroi = "Radiante"
 };
 
-console.log("O Herói de nome " + nomeHeroi + "está no nível de " + nivelHeroi );
+console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi );
